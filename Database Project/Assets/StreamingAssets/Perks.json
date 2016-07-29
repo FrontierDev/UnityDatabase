@@ -1,0 +1,1 @@
+{"name":"perkdb","hideFlags":0,"Perks":[{"PerkName":"Sword Mastery I","PerkID":1,"PerkDesc":"Test","PerkIconpath":"Prefabs/32x32","PerkUnlockLevel":1,"PerkConditions":[1]},{"PerkName":"Sword Mastery II","PerkID":2,"PerkDesc":"Test","PerkIconpath":"Prefabs/32x32","PerkUnlockLevel":10,"PerkConditions":[]}]}

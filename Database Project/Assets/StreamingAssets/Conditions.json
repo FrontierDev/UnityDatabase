@@ -1,0 +1,1 @@
+{"Conditions":[{"ConditionName":"Health Regeneration I","ConditionID":1,"ConditionDesc":"Increases health regeneration.","IsHarmful":false,"ConditionStat":1,"ConditionValue":3,"HasDuration":true,"ConditionDuration":15.0}],"name":"conddb","hideFlags":0}
